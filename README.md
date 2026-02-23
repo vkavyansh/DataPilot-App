@@ -11,4 +11,4 @@ Custom Visualizations: Build tailored charts (Histograms, Bar, Pie, Scatter, etc
 
 Executive Dashboard: Automatically generates a Power BI-style grid report with statistical summaries and KPIs.
 
-Note: This is V1 of this project
+Note: This is Version 1 of this project.

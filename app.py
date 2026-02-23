@@ -335,10 +335,10 @@ elif page == "3. Final Report":
 st.markdown("""
 <div class="footer">
     <strong>DataPilot</strong> | Contact Developer: 
-    <a href="YOUR_LINKEDIN_URL" target="_blank">Gmail</a> | 
-    <a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> |
-    <a href="YOUR_GITHUB_URL" target="_blank">GitHub</a> |
-    <a href="YOUR_GITHUB_URL" target="_blank">Portfolio</a> 
+    <a href="kavyanshverma8@gmail.com" target="_blank">Gmail</a> | 
+    <a href="https://www.linkedin.com/in/kavyansh-verma/" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/vkavyansh" target="_blank">GitHub</a> |
+    <a href="https://vkavyansh.github.io/Portfolio/" target="_blank">Portfolio</a> 
 </div>
 """, unsafe_allow_html=True)
 
